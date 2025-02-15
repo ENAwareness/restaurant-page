@@ -1,1 +1,1 @@
-console.log('Restaurant Page Initialized!');
+console.log('Webpack is working!');
